@@ -1,4 +1,4 @@
-# -LPG-Gas-Leak-Detection-Systems-Based-on-Wireless-Sensor-Networks
+# LPG-Gas-Leak-Detection-Systems-Based-on-Wireless-Sensor-Networks
 <h1> Introduction </h1>
 
 Fires due to gas explosions in Jakarta in 2018 increased to 95 incidents, compared to 2016 which experienced 45 incidents. The explosion of gas cylinders continues to increase every year due to the large use of LPG gas cylinders in the community, the gas cylinders then experience a physical decline in quality which can cause danger in every use of the gas cylinder. The absence of early detection of gas leaks can also result in accidents such as fires and explosions that lead to huge losses.
