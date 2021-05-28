@@ -1,5 +1,6 @@
 # -LPG-Gas-Leak-Detection-Systems-Based-on-Wireless-Sensor-Networks
 <h1> Introduction </h1>
+
 Fires due to gas explosions in Jakarta in 2018 increased to 95 incidents, compared to 2016 which experienced 45 incidents. The explosion of gas cylinders continues to increase every year due to the large use of LPG gas cylinders in the community, the gas cylinders then experience a physical decline in quality which can cause danger in every use of the gas cylinder. The absence of early detection of gas leaks can also result in accidents such as fires and explosions that lead to huge losses.
 
 The cause of the explosion of the gas cylinder was due to several factors, including leaks in the hose, tube, or the regulator that was not properly installed. When there is a leak, there will be a strong smell of gas. This gas will later explode when there is an ignition or electric spark or fire. Explosions can be avoided if there is early treatment if a leak occurs in the gas cylinder.
