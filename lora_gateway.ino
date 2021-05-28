@@ -84,7 +84,7 @@ void loop() {
       updateSerial();
       mySerial.println("AT+CMGF=1"); // Configuring TEXT mode
       updateSerial();
-      mySerial.println("AT+CMGS=\"085155428226\"");
+      mySerial.println("AT+CMGS=\"085155\"");
       updateSerial();
       mySerial.print("GAS DI DAPUR 1 BOCOR"); //text content
       updateSerial();
@@ -117,7 +117,7 @@ void loop() {
 
       mySerial.println("AT+CMGF=1"); // Configuring TEXT mode
       updateSerial();
-      mySerial.println("AT+CMGS=\"085155428226\"");
+      mySerial.println("AT+CMGS=\"08515\"");
       updateSerial();
       //lcd.setCursor(0, 2);
       //lcd.print("SMS dikirim");
@@ -149,7 +149,7 @@ void loop() {
 
       mySerial.println("AT+CMGF=1");
       updateSerial();
-      mySerial.println("AT+CMGS=\"08997151682\"");
+      mySerial.println("AT+CMGS=\"0899\"");
       updateSerial();
       mySerial.print("GAS DI DAPUR 1 DAN 2 BOCOR");
       updateSerial();
