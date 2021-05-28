@@ -43,7 +43,6 @@ void setup() {
   lcd.print(tampilrl);
   delay(3000);
 }
-
 void loop() {
 
   if (runEvery(800)) {
